@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/epm-siip/!svn/ver/1889/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model
+END
+ApplicationMediatorsProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/epm-siip/!svn/ver/1943/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/ApplicationMediatorsProxy.as
+END
+ApplicationProxiesProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/epm-siip/!svn/ver/1880/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/ApplicationProxiesProxy.as
+END
+UserSettingsProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/epm-siip/!svn/ver/1965/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/UserSettingsProxy.as
+END
+AbstractProxy.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/epm-siip/!svn/ver/1880/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/AbstractProxy.as
+END

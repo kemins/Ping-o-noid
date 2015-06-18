@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants
+END
+SettingsConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/SettingsConstants.as
+END
+EventConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/EventConstants.as
+END
+BodyType.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/epm-siip/!svn/ver/1902/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/BodyType.as
+END
+ImageConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/ImageConstants.as
+END
+TextFormats.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/TextFormats.as
+END
+TextConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/TextConstants.as
+END
+NotificationConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/epm-siip/!svn/ver/1963/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/NotificationConstants.as
+END
+SoundConstants.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/epm-siip/!svn/ver/1942/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/SoundConstants.as
+END
+Filters.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/constants/Filters.as
+END

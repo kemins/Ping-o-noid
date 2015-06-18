@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views
+END
+MainView.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/epm-siip/!svn/ver/1943/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/MainView.as
+END
+MenuView.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/MenuView.as
+END
+PauseGameView.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/PauseGameView.as
+END
+HelpScreenView.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/HelpScreenView.as
+END
+CreditsView.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/CreditsView.as
+END
+HighScoresView.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/HighScoresView.as
+END
+SettingsView.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/SettingsView.as
+END
+EndGameView.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/EndGameView.as
+END
+PingPongView.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/epm-siip/!svn/ver/1964/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/views/PingPongView.as
+END

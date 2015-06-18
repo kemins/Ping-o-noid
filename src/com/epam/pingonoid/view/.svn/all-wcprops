@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/epm-siip/!svn/ver/1965/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view
+END
+BaseMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/epm-siip/!svn/ver/1915/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/BaseMediator.as
+END
+SettingsViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/epm-siip/!svn/ver/1955/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/SettingsViewMediator.as
+END
+PingPongViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/epm-siip/!svn/ver/1965/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/PingPongViewMediator.as
+END
+CreditsMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/epm-siip/!svn/ver/1943/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/CreditsMediator.as
+END
+HighScoresMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/epm-siip/!svn/ver/1941/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/HighScoresMediator.as
+END
+MainViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/epm-siip/!svn/ver/1943/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/MainViewMediator.as
+END
+MenuViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/epm-siip/!svn/ver/1943/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/MenuViewMediator.as
+END
+World.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/epm-siip/!svn/ver/1953/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/World.as
+END

@@ -1,0 +1,39 @@
+package com.epam.pingonoid.controller.levels
+{	
+	import com.epam.pingonoid.controller.managers.SpriteManager;
+	import com.epam.pingonoid.view.components.walls.AbstractWall;
+	import com.epam.pingonoid.view.components.walls.BottomWall;
+	import com.epam.pingonoid.view.components.walls.LeftWall;
+	import com.epam.pingonoid.view.components.walls.RightWall;
+	import com.epam.pingonoid.view.components.walls.TopWall;
+	
+	import flash.display.Sprite;
+	
+	import org.puremvc.as3.interfaces.INotification;
+	import org.puremvc.as3.patterns.command.SimpleCommand;
+
+	/**
+	 * CreateBoundingBoxController
+	 * 
+	 */	
+	public class CreateBoundingBoxController extends SimpleCommand
+	{
+		
+		/**
+		 *	execute 
+		 * 
+		 */		
+		override public function execute( notification:INotification ):void
+		{
+			var parent:Sprite =  notification.getBody() as Sprite;
+			var tw:AbstractWall = new TopWall();
+			var bw:AbstractWall = new BottomWall();
+			var lw:AbstractWall = new LeftWall();
+			var rw:AbstractWall = new RightWall();
+			parent.addChild(tw);
+			parent.addChild(bw);
+			parent.addChild(lw);
+			parent.addChild(rw);
+		}
+	}
+}

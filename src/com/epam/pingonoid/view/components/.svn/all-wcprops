@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/epm-siip/!svn/ver/1961/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components
+END
+PlainButton.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/epm-siip/!svn/ver/1961/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/PlainButton.as
+END
+SpriteAdv.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/epm-siip/!svn/ver/1864/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/SpriteAdv.as
+END
+ScoreBoard.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/epm-siip/!svn/ver/1959/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/ScoreBoard.as
+END
+SettingsForm.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/epm-siip/!svn/ver/1954/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/SettingsForm.as
+END
+TimerBoard.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/epm-siip/!svn/ver/1954/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/TimerBoard.as
+END
+Racket.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/epm-siip/!svn/ver/1953/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/Racket.as
+END
+Sprite4Box2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/epm-siip/!svn/ver/1939/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/Sprite4Box2D.as
+END
+Ball.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/epm-siip/!svn/ver/1946/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/Ball.as
+END
+ScoreItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/epm-siip/!svn/ver/1926/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/ScoreItem.as
+END
+AbstractBoard.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/epm-siip/!svn/ver/1939/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/view/components/AbstractBoard.as
+END

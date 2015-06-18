@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/epm-siip/!svn/ver/1915/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/controller/managers/interfaces
+END
+ISpecialTooltipManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/epm-siip/!svn/ver/1954/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/controller/managers/interfaces/ISpecialTooltipManager.as
+END
+ISpecialToolTip.as
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/epm-siip/!svn/ver/1954/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/controller/managers/interfaces/ISpecialToolTip.as
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/epm-siip/!svn/ver/1912/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/interfaces
+END
+ICloneable.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/epm-siip/!svn/ver/1880/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/interfaces/ICloneable.as
+END
+IComparable.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/epm-siip/!svn/ver/1912/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/interfaces/IComparable.as
+END

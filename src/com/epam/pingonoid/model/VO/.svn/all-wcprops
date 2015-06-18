@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/epm-siip/!svn/ver/1912/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/VO
+END
+ScoreVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/epm-siip/!svn/ver/1937/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/VO/ScoreVO.as
+END
+HighScoresVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/epm-siip/!svn/ver/1937/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/VO/HighScoresVO.as
+END
+SettingsVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/epm-siip/!svn/ver/1954/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/VO/SettingsVO.as
+END
+BodyDataVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/epm-siip/!svn/ver/1888/fg_workspace/Ping-o-noid/src/com/epam/pingonoid/model/VO/BodyDataVO.as
+END
